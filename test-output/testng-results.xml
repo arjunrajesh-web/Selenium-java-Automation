@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-03-05T12:31:29 IST" name="Default suite" finished-at="2026-03-05T12:31:34 IST" duration-ms="5193">
+  <suite started-at="2026-03-05T17:53:20 IST" name="Default suite" finished-at="2026-03-05T17:53:23 IST" duration-ms="2412">
     <groups>
     </groups>
-    <test started-at="2026-03-05T12:31:29 IST" name="Default test" finished-at="2026-03-05T12:31:34 IST" duration-ms="5193">
-      <class name="com.register.TC_RF_024">
-        <test-method signature="verifyRegisteringAccountWithoutEnteringConfirmationPassword()[pri:0, instance:com.register.TC_RF_024@5c6648b0]" started-at="2026-03-05T12:31:29 IST" name="verifyRegisteringAccountWithoutEnteringConfirmationPassword" finished-at="2026-03-05T12:31:34 IST" duration-ms="5154" status="PASS">
+    <test started-at="2026-03-05T17:53:20 IST" name="Default test" finished-at="2026-03-05T17:53:23 IST" duration-ms="2412">
+      <class name="com.register.TC_RF_026">
+        <test-method signature="verifyRegisterAccountUI()[pri:0, instance:com.register.TC_RF_026@5c6648b0]" started-at="2026-03-05T17:53:20 IST" name="verifyRegisterAccountUI" finished-at="2026-03-05T17:53:23 IST" duration-ms="2383" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- verifyRegisteringAccountWithoutEnteringConfirmationPassword -->
-      </class> <!-- com.register.TC_RF_024 -->
+        </test-method> <!-- verifyRegisterAccountUI -->
+      </class> <!-- com.register.TC_RF_026 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
