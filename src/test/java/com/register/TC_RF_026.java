@@ -24,7 +24,7 @@ public class TC_RF_026 {
 		driver.findElement(By.xpath("//span[text()='My Account']")).click();
 		driver.findElement(By.linkText("Register")).click();
 		
-		TakesScreenshot ts = (TakesScreenshot)driver;
+		TakesScreenshot ts = (TakesScreenshot)driver; 
 		 File srcScreenshot = ts.getScreenshotAs(OutputType.FILE);
 		 
 		 try {
